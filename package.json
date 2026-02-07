@@ -1,0 +1,8 @@
+{
+  "name": "vercel-deploy-backend-fix",
+  "version": "1.0.0",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "axios": "^1.6.0"
+  }
+}
